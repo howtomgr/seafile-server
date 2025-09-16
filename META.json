@@ -1,0 +1,62 @@
+{
+  "category": "miscellaneous",
+  "created_date": "2025-09-15T22:48:59.041459",
+  "default_ports": [
+    80,
+    443,
+    8000,
+    8082
+  ],
+  "dependencies": [],
+  "description": "seafile is a free and open-source open source file sync and share platform. Seafile provides file synchronization and sharing with client-side encryption, serving as an alternative to Dropbox or OneDrive",
+  "difficulty_level": "intermediate",
+  "documentation_url": "https://howtomgr.github.io/miscellaneous/seafile-server",
+  "estimated_setup_time": "15-30 minutes",
+  "features": [
+    "multi-os-support",
+    "comprehensive-documentation",
+    "security-hardening",
+    "performance-optimization",
+    "backup-restore-procedures",
+    "troubleshooting-guides"
+  ],
+  "guide_path": "/miscellaneous/seafile-server",
+  "installation_methods": [
+    "native-packages",
+    "source-compilation"
+  ],
+  "last_updated": "2025-09-15T22:48:59.041484",
+  "license": "Open Source",
+  "maintenance_status": "active",
+  "name": "seafile-server",
+  "repository_url": "https://github.com/howtomgr/seafile-server",
+  "spec_version": "2.0",
+  "subcategory": "miscellaneous",
+  "supported_os": [
+    "rhel",
+    "centos",
+    "rocky",
+    "almalinux",
+    "debian",
+    "ubuntu",
+    "arch",
+    "alpine",
+    "opensuse",
+    "sles",
+    "macos",
+    "freebsd",
+    "windows"
+  ],
+  "tags": [
+    "miscellaneous",
+    "containerization",
+    "observability",
+    "data-storage",
+    "networking",
+    "security",
+    "data-protection"
+  ],
+  "title": "seafile Installation Guide",
+  "version": "1.0.0",
+  "website_url": "https://howtomgr.github.io/miscellaneous/seafile-server"
+}
